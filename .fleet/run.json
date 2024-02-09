@@ -1,0 +1,12 @@
+{
+    "configurations": [
+      {
+        "name": "YatzyGUI [javafx:run]",
+        "type": "maven",
+        "tasks": ["javafx:run"],
+        "debugJvm": "true",
+      },
+
+      
+    ]
+}
